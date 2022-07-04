@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test-helm:
+  - apiVersion: v2
+    appVersion: 1.16.2
+    created: "2022-07-04T15:28:12.112109871Z"
+    description: A Helm test chart for Kubernetes
+    digest: 3a178bb712f84d0c0ea39fd2c13eae19490b73372047feee1fd98d948be061fc
+    name: test-helm
+    type: application
+    urls:
+    - https://github.com/vkobets/test-helm/releases/download/test-helm-0.1.4/test-helm-0.1.4.tgz
+    version: 0.1.4
+generated: "2022-07-04T15:28:12.112132572Z"
